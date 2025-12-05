@@ -1,0 +1,9 @@
+com/tech/Student_Database_Management/Control_Interface.class
+com/tech/Student_Database_Management/Add_Student.class
+org/example/App.class
+com/tech/Student_Database_Management/Delete_Student.class
+com/tech/Student_Database_Management/Add_Result.class
+com/tech/Student_Database_Management/View_Result.class
+com/tech/Student_Database_Management/Update_Student.class
+com/tech/Student_Database_Management/Delete_Results.class
+com/tech/Student_Database_Management/View_All.class
